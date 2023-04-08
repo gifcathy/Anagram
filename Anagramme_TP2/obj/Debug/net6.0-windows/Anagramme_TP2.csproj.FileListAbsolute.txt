@@ -1,0 +1,17 @@
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\bin\Debug\net6.0-windows\Anagramme_TP2.exe
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\bin\Debug\net6.0-windows\Anagramme_TP2.deps.json
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\bin\Debug\net6.0-windows\Anagramme_TP2.runtimeconfig.json
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\bin\Debug\net6.0-windows\Anagramme_TP2.dll
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.csproj.AssemblyReference.cache
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.Form1.resources
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.csproj.GenerateResource.cache
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.AssemblyInfoInputs.cache
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.AssemblyInfo.cs
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.csproj.CoreCompileInputs.cache
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.dll
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\refint\Anagramme_TP2.dll
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.pdb
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\Anagramme_TP2.genruntimeconfig.cache
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\obj\Debug\net6.0-windows\ref\Anagramme_TP2.dll
+D:\Cathy\6_BUT1\S2\Anagramme_TP2\Anagramme_TP2\bin\Debug\net6.0-windows\Anagramme_TP2.pdb
